@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: None
+date: 2016-01-13
 img: cake.png
 alt: image-alt
 project-date: None
