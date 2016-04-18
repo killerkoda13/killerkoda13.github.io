@@ -4,7 +4,7 @@ modal-id: 6
 date: 2016-01-13
 img: cake.png
 alt: image-alt
-project-date: On-going
+project-date: January 2016
 client: OmniKraft.net
 category: Java 7, Java 8
 description: These are many of my Minecraft related projects. NOTE: I am not affiliated with Mojong AB. \r Experience Traders
