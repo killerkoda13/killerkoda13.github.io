@@ -7,6 +7,6 @@ alt: image-alt
 project-date: None
 client: OmniKraft.net
 category: Java 7, Java 8
-description: In Progress
+description: Minecraft related projects. Experience Traders
 
 ---
