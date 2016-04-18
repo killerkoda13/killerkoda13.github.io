@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2016-01-13
-img: minecraft.png
+img: cake.png
 alt: image-alt
 project-date: On-going
 client: OmniKraft.net
