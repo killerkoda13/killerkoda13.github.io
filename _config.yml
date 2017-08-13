@@ -54,3 +54,5 @@ credits: 'Developed and designed by Alex Jones.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+theme: jekyll-theme-architect
